@@ -24,7 +24,7 @@ written using `PostgreSQL`
 ## 3. Data cleaning.sql 
 cleaning data and export out (selected folder is in Downloads/walmart/data in my local device)
 - Replace `Null` to 0
-- Ensure consitent data type format specifically date
+- Ensure consistent data type format specifically date
 - Remove outliers
 - Remove negative value in relavant columns
 
